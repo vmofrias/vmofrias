@@ -32,6 +32,9 @@
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon"></span>
 <br><br>
 
+## Contact
+<span><a href="https://www.linkedin.com/in/vmof/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nodejs Icon"></a></span>
+
 
 - Thanks for visiting.
 
