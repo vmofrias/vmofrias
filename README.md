@@ -30,6 +30,7 @@
 
 <h3> Database </h3>
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon"></span>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Icon"></span>
 <br><br>
 
 ## Contact and Follow Me
