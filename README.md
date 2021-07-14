@@ -33,7 +33,7 @@
 <br><br>
 
 
-<span align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)</span>
+<span align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)]</span>
 
 - Thanks for visiting.
 
