@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JavaScript, React, Node.js, C# and MySQL.                   
+:books: I’m currently learning JavaScript, React, Node.js, C# and Java (I'm trying so hard to don't hate Java).                   
 
 :outbox_tray: 2021 Goals: Improve my hard and soft skills.
 
