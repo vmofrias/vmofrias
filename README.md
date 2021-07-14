@@ -1,8 +1,8 @@
-# Welcome, my friend.
+# Welcome, my friend!
 
  
 
-## I'm Vinícius Frias!
+## I'm Vinícius Frias
 
  
 
@@ -18,7 +18,7 @@
 
 ## About me
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Thanks for visiting.
 
