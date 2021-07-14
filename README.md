@@ -16,7 +16,11 @@
 
  
 
-## About me
+## Languages and technologies
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
 
