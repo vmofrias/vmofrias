@@ -31,7 +31,6 @@
 <h3> Database </h3>
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon"></span>
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
 
 - Thanks for visiting.
