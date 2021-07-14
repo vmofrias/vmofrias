@@ -14,11 +14,10 @@
 
 :outbox_tray: 2021 Goals: Improve my hard and soft skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
-
-
 ## Languages and Technologies
-
+<a href="https://github.com/vmofrias/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact"/>
+</a>
 <h3> Front-End </h3>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Icon"></span>
 <span><img margin-left="5px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon"></span>
