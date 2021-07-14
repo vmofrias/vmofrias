@@ -34,7 +34,7 @@
 <br><br>
 
 ## Contact and Follow Me
-<span><a href="https://www.linkedin.com/in/vmof/" target="__blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a></span>
+<span><a href="https://www.linkedin.com/in/vmof/" target="__blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a></span>
 <span><a href="https://www.instagram.com/vinicius_mf_/" target="__blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"></a></span>
 
 - Thanks for visiting.
