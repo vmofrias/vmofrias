@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JavaScript, React, Node.js, C# and MySQL.
+:books: I’m currently learning JavaScript, React, Node.js, C# and MySQL.                       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
 
 :outbox_tray: 2021 Goals: Improve my hard and soft skills.
 
@@ -33,7 +33,7 @@
 <br><br>
 
 
-<span align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)]</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
 
 - Thanks for visiting.
 
