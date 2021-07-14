@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact)](https://github.com/vmofrias/github-readme-stats)
 
-## Languages and technologies
+## Languages and Technologies
 
 <h3> Front-End </h3>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Icon"></span>
