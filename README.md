@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently C# and Java.                   
+:books: I’m currently learning C# and Java.                   
 
 :outbox_tray: 2021 Goals: Improve my hard and soft skills.
 
