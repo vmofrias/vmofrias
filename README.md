@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Java and Spring Framework.                   
 
-:outbox_tray: 2021 Goals: Improve my hard and soft skills.
+:outbox_tray: 2022 Goals: Improve my knowledge of web application security.
 
 ## Languages and Technologies
 <a href="https://github.com/vmofrias/github-readme-stats">
