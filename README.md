@@ -1,5 +1,5 @@
 # Welcome, my friend!
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='30%'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='20%'>
  
 
 ## I'm Vinícius Frias
@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Java and Spring Framework.                   
 
-:outbox_tray: 2022 Goals: Improve my knowledge of web application security.
+:outbox_tray: 2022 Goals: 
 
 ## Languages and Technologies
 <a href="https://github.com/vmofrias/github-readme-stats">
