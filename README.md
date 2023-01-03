@@ -16,7 +16,7 @@
 
 :books: I’m currently learning Java and Spring Framework.                   
 
-:outbox_tray: 2022 Goals: Improve my knowledge of web application security.
+:outbox_tray: 2023 Goals: Learn more about front-end, software architecture, algorithms and refactoring techniques.
 
 ## Languages and Technologies
 <a href="https://github.com/vmofrias/github-readme-stats">
@@ -36,6 +36,8 @@
 
 
 <h3> Database </h3>
+
+<span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Icon"></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="OracleDB Icon"></span>
 <span><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon"></span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Icon"></span>
@@ -45,6 +47,6 @@
 <span><a href="https://www.linkedin.com/in/vmof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a></span>
 <span><a href="https://www.instagram.com/vinicius_mf_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"></a></span>
 
-- Thanks for visiting.
+### Thanks for visiting :octocat:
 
-- Enjoy it!! o/
+### Enjoy it!! o/
