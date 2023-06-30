@@ -1,4 +1,4 @@
-# :smiley: Moshi Moshi :hushed:
+# :smiley: Moshi Moshi :smiley:
 <img align='right' src='https://c.tenor.com/jz5C4Uk8tVwAAAAC/vagabond.gif' width='20%'>
 
 
