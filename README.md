@@ -10,9 +10,7 @@
 
  
 
-:computer: Software Engineer
-
-:books: I’m currently learning Java and Spring Framework                 
+:computer: Software Engineer              
 
 :outbox_tray: 2023 Goals: Learn more about front-end, software architecture, algorithms and refactoring techniques.
 
