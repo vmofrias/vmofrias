@@ -10,10 +10,8 @@
 
 ## Languages and Technologies
 <a href="https://github.com/vmofrias/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact"/>
 </a>
-
-<br><br>
 
 ## Contact and Follow Me
 <span><a href="https://www.linkedin.com/in/vmof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon"></a></span>
