@@ -4,6 +4,3 @@
 <a href="https://github.com/vmofrias/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmofrias&layout=compact"/>
 </a>
-
-### Thanks for visiting :octocat:
-
